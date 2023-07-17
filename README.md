@@ -1,8 +1,6 @@
 <h2>☄️ Hey! I'm İbrahim İçgili</h2>
 
-- 👾  I’m currently working with .NET and Python
-
-- 💬  Ask me about **JavaScript, CSS and React.js.**
+- 👾  I’m currently working with .NET and JavaScript
 
 - 📫  How to reach me **icgili@outlook.com**
 
