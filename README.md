@@ -14,6 +14,7 @@
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
+ <a href="https://docs.python.org/3/" target="_blank" rel=”noopener”> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="27" height="30"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>
